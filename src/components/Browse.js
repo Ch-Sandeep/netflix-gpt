@@ -9,7 +9,7 @@ const Browse = () => {
 
   //component should just have JSX logic
   return (
-    <div>
+    <div className="overflow-hidden text-clip">
       <Header />
       <MainContainer />
       <SecondaryContainer />

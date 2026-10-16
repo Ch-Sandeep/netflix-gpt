@@ -9,7 +9,7 @@ const VideoTitle = ({ title, overview }) => {
       <div className="flex">
         <button className="bg-white text-black p-4 px-12 text-xl flex items-center rounded-lg hover:bg-opacity-80">
           <svg
-            class="w-8 h-8 fill-black"
+            className="w-8 h-8 fill-black"
             viewBox="0 0 24 24"
             xmlns="http://w3.org"
           >
