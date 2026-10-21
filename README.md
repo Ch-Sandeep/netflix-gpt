@@ -34,6 +34,10 @@
 - TMDB Image CDN URL
 - Made browse page look good with tailwind css
 - updated useNowPlayingMovies hook.
+- GPT search page
+- GPT search bar
+- Multi language feature in our app
+- Integrate, GPT APIs
 
 # Features
 
